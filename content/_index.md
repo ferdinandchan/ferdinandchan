@@ -4,7 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-Hi there, welcome to my blog. 
+Hi there, welcome to my blog
 
 My name is Ferd and I am a Christian, a husband and a father. If you want to know what I'm focusing on right now, please check out my ["now"](/now) page.
 
